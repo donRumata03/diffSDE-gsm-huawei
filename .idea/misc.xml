@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.10 (Convolutional-KANs)" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="c81e2f46-9dd9-4c24-995e-e221183e2d2d" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (Convolutional-KANs)" project-jdk-type="Python SDK" />
+</project>
